@@ -1,0 +1,38 @@
+_repo: The-Frontier-in-American-History_22994
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Turner, Frederick Jackson
+    alias: Turner, F. J. (Frederick Jackson)
+    birthdate: 1861
+    deathdate: 1932
+    gutenberg_agent_id: '1322'
+    url: http://www.gutenberg.org/2009/agents/1322
+    wikipedia:
+    - http://en.citizendium.org/wiki/Frederick_Jackson_Turner
+    - http://en.wikipedia.org/wiki/Frederick_Jackson_Turner
+description: 'This hugely influential work marked a turning point in US history and
+  culture, arguing that the nation''s expansion into the Great West was directly linked
+  to its unique spirit: a rugged individualism forged at the juncture between civilization
+  and wilderness, which - for better or worse - lies at the heart of American identity
+  today. [Google Books].'
+gutenberg_bookshelf: United States
+gutenberg_issued: '2007-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22994'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- United States'
+- !lcsh 'United States -- History'
+- !lcsh 'Frontier thesis'
+- !lcsh 'United States -- Territorial expansion'
+- !lcc 'E151'
+title: The Frontier in American History
+url: http://www.gutenberg.org/ebooks/22994
