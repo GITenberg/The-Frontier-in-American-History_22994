@@ -19,6 +19,8 @@ description: 'This hugely influential work marked a turning point in US history 
   to its unique spirit: a rugged individualism forged at the juncture between civilization
   and wilderness, which - for better or worse - lies at the heart of American identity
   today. [Google Books].'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22994#The-Frontier-in-American-History
 gutenberg_bookshelf: United States
 gutenberg_issued: '2007-10-14'
 gutenberg_type: Text
